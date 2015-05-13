@@ -1,3 +1,5 @@
+### This project was discontinued in favor of the new [fastlane examples project](https://github.com/fastlane/examples)
+
 <h3 align="center">
   <a href="https://github.com/KrauseFx/fastlane">fastlane</a>
 </h3>
