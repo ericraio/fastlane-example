@@ -1,5 +1,7 @@
 ### This project was discontinued in favor of the new [fastlane examples project](https://github.com/fastlane/examples)
 
+--------------------------
+
 <h3 align="center">
   <a href="https://github.com/KrauseFx/fastlane">fastlane</a>
 </h3>
@@ -12,7 +14,7 @@
 </p>
 -------
 
-Example [fastlane](https://github.com/KrauseFx/fastlane) iOS project
+Old Example [fastlane](https://github.com/KrauseFx/fastlane) iOS project
 ============
 
 [![Twitter: @KauseFx](https://img.shields.io/badge/contact-@KrauseFx-blue.svg?style=flat)](https://twitter.com/KrauseFx)
